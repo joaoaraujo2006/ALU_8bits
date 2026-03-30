@@ -48,3 +48,4 @@ Dessa forma, ao inserir os valores, o circuito calcula corretamente o resultado 
 
 # 3. Vídeo
 
+**LINK DO VÍDEO:** https://drive.google.com/file/d/1m48qFPju06Nado-DwJ3tW61sr9_66gtP/view?usp=sharing
