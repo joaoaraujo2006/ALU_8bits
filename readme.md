@@ -46,12 +46,5 @@ Agora, para aumentar a quantidade de bits permitidas pelo circuito, basta encade
 
 Dessa forma, ao inserir os valores, o circuito calcula corretamente o resultado esperado.
 
-## 2.2 Subtrator de 1 bit
-
-Seguindo
-
-
-
-
 # 3. Vídeo
 
