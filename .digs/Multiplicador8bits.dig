@@ -340,7 +340,7 @@
       <elementAttributes>
         <entry>
           <string>Input Splitting</string>
-          <string>8</string>
+          <string>16</string>
         </entry>
         <entry>
           <string>Output Splitting</string>
@@ -368,7 +368,7 @@
         </entry>
         <entry>
           <string>Bits</string>
-          <int>16</int>
+          <int>8</int>
         </entry>
         <entry>
           <string>intFormat</string>
@@ -386,7 +386,7 @@
         </entry>
         <entry>
           <string>Bits</string>
-          <int>16</int>
+          <int>8</int>
         </entry>
         <entry>
           <string>intFormat</string>
