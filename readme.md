@@ -34,6 +34,24 @@ Para criar um somador de 8 bits, inicialmente é necessário criar um somador de
 
 Para que o circuito funcione em série (escalonado), ele deve ser capaz de processar não apenas os dois bits atuais, mas também o transporte vindo da casa anterior. É o que chamamos de Carry In (Cin).Essa lógica simula exatamente o que fazemos na aritmética decimal: ao somar $9 + 9$, o resultado excede a unidade, gerando uma dezena que deve ser somada na coluna seguinte. No somador de 8 bits, o Cout do "Bit 0" se torna o Cin do "Bit 1", criando uma reação em cadeia que permite processar números de maior casas de unidade.
 
+Após realizar a tabela verdade, basta encontrar um circuito que atenda as condições. O circuito montado foi o seguinte:
+
+<img src="./imgs/1.png" width=50% height=50% />
+
+## 2.1.2 Somador de 8 bits
+
+Agora, para aumentar a quantidade de bits permitidas pelo circuito, basta encadear vários somadores de 1 bits, conectandos cOut do anterior, no cIn do próximo, como na imagem abaixo:
+
+<img src="./imgs/2.png" width=50% height=50% />
+
+Dessa forma, ao inserir os valores, o circuito calcula corretamente o resultado esperado.
+
+## 2.2 Subtrator de 1 bit
+
+Seguindo
+
+
+
 
 # 3. Vídeo
 
