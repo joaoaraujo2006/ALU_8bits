@@ -48,7 +48,7 @@ Dessa forma, ao inserir os valores, o circuito calcula corretamente o resultado 
 
 # 3. Vídeo
 
-
+[![Vídeo de Demonstração](https://img.youtube.com/vi/3SC2xrHSuDc/0.jpg)](https://youtu.be/3SC2xrHSuDc)
 <iframe src="https://youtu.be/3SC2xrHSuDc" width="640" height="480" allow="autoplay"></iframe>
 
 <br>
